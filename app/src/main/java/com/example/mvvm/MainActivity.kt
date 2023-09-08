@@ -31,12 +31,12 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun displa() {
+fun display() {
 
 }
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun navPreview() {
     AppNavHost()
 }
